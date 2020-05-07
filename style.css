@@ -1,0 +1,595 @@
+.main{
+    width: 100%;
+    height: 75px;
+background-color: blue;
+
+}
+    
+
+img.fb {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    margin: 5px 10px 5px 5px ;
+
+}
+
+img.tw {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    position: absolute;
+    top: 10px;
+    left: 60px;
+    margin: 5px 10px 5px 20px ;
+
+}
+
+img.ins {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    position: absolute;
+    top: 10px;
+    left: 80px;
+    margin: 5px 10px 5px 35px ;
+}
+
+img.you {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    margin: 5px 0px 0px 50px ;
+
+}
+
+img.wp {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    position: absolute;
+    top: 10px;
+    left: 120px;
+    margin: 5px 0px 0px 65px ;
+}
+
+p.p {
+    float: left;
+    clear: both;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 240px;
+    color: ghostwhite;
+    font-size: medium;
+    display: inline-block
+}
+
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    background-color: white;
+    border: solid white;
+    display: inline-block ;
+    position: absolute;
+    top: 0px;
+    right: 140;
+    font-size: small;
+    padding: 3px 5px 5px 5px;
+}
+p.c {
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    background-color: white;
+    border: solid white;
+    display: inline-block ;
+    position: absolute;
+    top: 0px;
+    right: 45;
+    font-size: small;
+    padding: 3px 5px 5px 5px;
+}
+p.d { 
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    background-color: white;
+    border: solid white;
+    display: inline-block ;
+    position: absolute;
+    top: 35px;
+    right: 120px;
+    font-size: small;
+    padding: 3px 5px 5px 5px;
+}
+
+img.Y {
+    float: left;
+    height: 60px;
+    width: 300px;
+    display: inline-block ;
+    position: absolute;
+    top: 80px;
+    left: 15px;
+    margin: 15px 5px 0px 0px ;
+
+}
+
+li{
+    color: black;
+    background-color: white;
+    font-size: medium;
+    float: left;
+    display: inline-block;
+    height: 20px;
+    padding: 5px;
+    margin: 10px;
+    position: relative;
+    left: 280;
+
+}
+img.zakat {
+    margin: 20px 5px 10px 5px;
+    height: 350px;
+    width: 100%;
+
+}
+
+.yahoo {
+    
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    height: 25px;
+    width: 100%;
+    background-color: blue;
+    
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blue;
+}
+
+.icon {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.intro {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+
+}
+
+.mid {
+    /* position: absolute;
+    top: 1150px; */
+    width: 100%;
+    height: 350px;
+background-color: blue;
+
+}
+
+.iconfood {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 50%;
+    left: 40%;
+    
+}
+
+.iconfamily {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 50%;
+    left: 40%;
+       
+}
+
+.icondoc {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 50%;
+    left: 40%;
+      
+}
+
+.iconedu {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 50%;
+    left: 40%;  
+    
+}
+
+.foodno {
+    font-style: initial;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+
+}
+
+.familyno {
+    font-style: initial;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+
+}
+
+.docno {
+    font-style: initial;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+
+}
+
+.eduno {
+    font-style: initial;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+
+}
+.food {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+
+}
+
+.family {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.doc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.edu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.food1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+
+}
+
+.family1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.middle {
+    /* position: absolute;
+    top: 1500px; */
+    width: 100%;
+    height: 600px;
+    background-color: whitesmoke;
+}
+
+.th {
+    height: 140px;
+    width: 100%;
+}
+
+.sadqah {
+        font-size: large;
+        font-weight: bold;
+        color: blue;
+        text-align: center;
+        background-color: white;
+        position: absolute;
+        height: 30%;
+        width: 26%;
+        margin: 0px 15px 80px 20px;
+
+}
+
+.welfare {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    height: 30%;
+    width: 26%;
+    margin: 0px 15px 80px 360px;
+
+}
+
+.medical {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    height: 30%;
+    width: 26%;
+    margin: 0px 15px 20px 700px;
+}
+
+.dastarkhwan {
+    font-size: large;
+    font-weight: bold;
+    
+    color: blue;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    height: 30%;
+    width: 26%;
+    margin: 10px 0px 20px 20px;
+
+}
+
+.roplant {
+    font-size: large;
+    font-weight: bold;
+    
+    color: blue;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    height: 30%;
+    width: 26%;
+    margin: 10px 0px 20px 360px;
+}
+
+.education {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    height: 30%;
+    width: 26%;
+    margin: 10px 0px 20px 700px;
+}
+
+.Miss {
+    position: absolute;
+    height: 5%;
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: left;
+    font-size: x-large;
+    padding: 80px 10px 20px 30px;
+}
+
+.hepa {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: left;
+    background-color: whitesmoke;
+    position: absolute;
+    height: 12%;
+    width: 28%;
+    margin: 115px 20px 20px 30px;
+}
+
+.hous {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: left;
+    background-color: whitesmoke;
+    position: absolute;
+    height: 12%;
+    width: 28%;
+    margin: 115px 20px 20px 360px;
+}
+
+.it {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: left;
+    background-color: whitesmoke;
+    position: absolute;
+    height: 12%;
+    width: 28%;
+    margin: 220px 20px 20px 30px;
+}
+
+
+.thar {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: left;
+    background-color: whitesmoke;
+    position: absolute;
+    height: 12%;
+    width: 28%;
+    margin: 220px 20px 20px 360px;
+}
+
+.seclast1 {
+    
+    height: 40%;
+    width: 34%;
+    margin: -5px 0px 0px 650px;
+    
+    
+
+}
+.miss1 {
+    position: absolute;
+    height: 5%;
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: left;
+    font-size: x-large;
+    padding: 70px 0px 0px 20px;
+}
+
+.para {
+    position: absolute;
+    height: 20%;
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: medium;
+    margin: 120px 0px 0px 20px;
+    float: left;
+    clear: both;
+
+}
+
+.End {
+    
+    height: 70%;
+    width: 100%;
+    margin: 80px 0px 0px 0px;
+    
+}
+
+
+.hazraat1 {
+    padding: 0px 0px 100px 30px;
+    height: 100px;
+    width: 200px;
+}
+
+.rashan1 {
+         padding: 0px 0px 100px 0px;
+        height: 100px;
+        width: 170px;
+    
+}
+
+.food3 {
+    padding: 0px 0px 100px 0px;
+    height: 100px;
+    width: 170px;
+}
+
+.hazraat2 {
+    padding: 0px 0px 100px 0px;
+    height: 100px;
+    width: 170px;
+}
+
+.rashan2 {
+    padding: 0px 0px 100px 0px;
+    height: 100px;
+    width: 170px;
+}
+.last {
+    background-color: black;
+    height: 70%;
+    width: 100%;
+}
+
+.use {
+    color: white;
+    font-size: medium;
+    text-align: left;
+    padding: 100px 50px 40px 0px;
+}
+.us {
+    color: white;
+    font-size: medium;
+    text-align: left;
+    padding: 100px 0px 20px 0px;
+}
+.fb1 {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    margin: 10px 0px 0px 5px ;
+
+}
+
+.tw1 {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    margin: 10px 0px 0px 5px ;
+
+}
+
+.in1 {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    margin: 10px 0px 0px 5px ;
+
+}
+ 
+.you1 {
+    float: left;
+    height: 20px;
+    width: 20px;
+    display: inline-block ;
+    margin: 10px 0px 0px 5px ;
+
+}
+
+.td1 {
+    color: white;
+    font-size: medium;
+    text-align: left;
+    padding: 0px 40px 80px 40px;
+}
+.khatam {
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    font-size: small;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin: 10px 0px 0px 30px;
+}
+
